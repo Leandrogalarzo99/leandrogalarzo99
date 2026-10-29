@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Leandro%20Dev%20Lab&fontSize=50&animation=fadeIn" width="100%" />
-</p>
+<img width="1124" height="324" alt="image" src="https://github.com/user-attachments/assets/8dc5da97-11d9-4f78-8609-771dac3ac248" />
+
 
 
 # ¡Hola! Soy Leandro 👋
