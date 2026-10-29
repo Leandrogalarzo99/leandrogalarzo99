@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Leandro%20Dev%20Lab&fontSize=50&animation=fadeIn" width="100%" />
+</p>
+
+
 # ¡Hola! Soy Leandro 👋
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador enfocado en la creación de soluciones de software, aplicaciones web modernas y desarrollo de productos.
