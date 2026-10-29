@@ -1,5 +1,4 @@
-<img width="1124" height="324" alt="image" src="https://github.com/user-attachments/assets/8dc5da97-11d9-4f78-8609-771dac3ac248" />
-
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/21b3e1ae-1640-4100-8498-f2d5331ecb93" />
 
 
 # ¡Hola! Soy Leandro 👋
